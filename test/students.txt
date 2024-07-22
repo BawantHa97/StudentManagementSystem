@@ -1,0 +1,10 @@
+1,bawantha,kyoto,0711232970,bawanthaharshana@gmail.com
+2,harshana,tokyo,07085602029,fncbawantha@gmail.com
+3,udara,colombo,0771232970,udarasew@gmail.com
+4,kasun,galle,0779123456,kasunperera@gmail.com
+5,nimal,kandy,0712345678,nimalfernando@gmail.com
+6,aruna,jaffna,0759876543,arunasilva@gmail.com
+7,samitha,negombo,0765432109,samithakarun@gmail.com
+8,amila,matara,0723456789,amilasen@gmail.com
+9,ranjan,kurunegala,0789123456,ranjanp@gmail.com
+10,dilshan,anuradhapura,0734567890,dilshan@gmail.com

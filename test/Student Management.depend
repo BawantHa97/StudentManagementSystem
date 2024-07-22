@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1719145968 source:d:\c++\student management\student.cpp
+	"student.h"
+	<fstream>
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<string>
+
+1719145577 d:\c++\student management\student.h
+	<string>
+	<fstream>
+
+1719146328 source:d:\c++\student management\admin.cpp
+	"admin.h"
+	"student.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1719144759 d:\c++\student management\admin.h
+	<vector>
+	"student.h"
+
+1719798559 source:d:\c++\student management\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<stdexcept>
+	"admin.h"
+	"student.h"
+
+1721574888 source:d:\c++\test\admin.cpp
+	"admin.h"
+	"student.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1721576887 d:\c++\test\admin.h
+	<vector>
+	"student.h"
+
+1721585359 d:\c++\test\student.h
+	<vector>
+	<string>
+	<map>
+
+1721586394 source:d:\c++\test\student.cpp
+	"student.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<stdexcept>
+
+1721586394 source:d:\c++\test\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<stdexcept>
+	"admin.h"
+	"student.h"
+
